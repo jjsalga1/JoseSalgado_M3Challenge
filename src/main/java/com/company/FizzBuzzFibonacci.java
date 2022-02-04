@@ -35,7 +35,6 @@ public class FizzBuzzFibonacci {
 
         // compute Fibonacci
         System.out.println("\nFibonacci\n" + "==========");
-
         // variables for computing sequence
         int num1 = 0;
         int num2 = 1;
