@@ -1,4 +1,4 @@
-package com.company.FizzBuzzFibonacci;
+package com.company;
 
 import java.util.Scanner;
 
